@@ -14,11 +14,7 @@ A classic Snake game built using **vanilla HTML, CSS, and JavaScript**. Control 
 
 ## 🚀 Live Demo
 
-Check out the live version: **[Play Snake Game](# 🐍 Snake Game
-
-A classic Snake game built using **vanilla HTML, CSS, and JavaScript**. Control the snake, eat food, grow longer, and avoid hitting the walls or yourself!
-
-![Snake Game](./screenshot.png) *(Optional: Add a screenshot of your game)*
+Check out the live version: **[🎮 Play Snake Game](https://snake-game-jlfpwnnnw-immortalcoder-001s-projects.vercel.app/)**
 
 ## ✨ Features
 
@@ -29,21 +25,12 @@ A classic Snake game built using **vanilla HTML, CSS, and JavaScript**. Control 
 - 🔄 Restart functionality
 - 📱 Mobile-friendly design *(if applicable)*
 
-## 🚀 Live Demo
-
-Check out the live version: **[Play Snake Game](https://yourusername.github.io/your-repo-name)**
-
 ## 🛠️ Technologies Used
 
 - **HTML5** - Game structure and canvas element
 - **CSS3** - Styling and animations
 - **JavaScript (ES6+)** - Game logic and interactivity
 
-## 🛠️ Technologies Used
-
-- **HTML5** - Game structure and canvas element
-- **CSS3** - Styling and animations
-- **JavaScript (ES6+)** - Game logic and interactivity
 
 ## 🎯 Key Features Implemented
 
